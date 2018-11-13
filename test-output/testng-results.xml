@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2161" started-at="2018-11-13T00:59:06Z" finished-at="2018-11-13T00:59:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2161" started-at="2018-11-13T00:59:06Z" finished-at="2018-11-13T00:59:08Z">
+      <class name="com.Apple.Cars.Assignment.RentalCarApiTest">
+        <test-method status="PASS" signature="ApiCarTesting()[pri:0, instance:com.Apple.Cars.Assignment.RentalCarApiTest@475530b9]" name="ApiCarTesting" duration-ms="2127" started-at="2018-11-12T16:59:06Z" finished-at="2018-11-12T16:59:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ApiCarTesting -->
+      </class> <!-- com.Apple.Cars.Assignment.RentalCarApiTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
